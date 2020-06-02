@@ -1,0 +1,12 @@
+# ignore build directories
+src/obj_arm_gnueabi/
+src/obj_emu/
+# ignore QtCreator project files
+pbxmms2client.cflags
+pbxmms2client.config
+pbxmms2client.creator*
+pbxmms2client.cxxflags
+pbxmms2client.files
+pbxmms2client.includes
+# other
+*~

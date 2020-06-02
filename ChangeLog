@@ -1,0 +1,11 @@
+pbxmms2client v0.006 (first release on GitHub)
+	- fix ALSA lib warning "Invalid CTL"
+	- fix saving volume level
+	- update copyrights
+.05.2020
+
+pbxmms2client v0.005
+	- various internal improvements
+	- added displaying battery charge
+	- added displaying current playtime
+18.03.2020
